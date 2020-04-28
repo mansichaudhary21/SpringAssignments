@@ -1,0 +1,15 @@
+2020-04-28 10:50:17 DEBUG AnnotationConfigApplicationContext:594 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@759ebb3d
+2020-04-28 10:50:17 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2020-04-28 10:50:18 DEBUG ClassPathBeanDefinitionScanner:437 - Identified candidate component class: file [E:\workspaceSpring\Lab1.1\target\classes\com\capg\spring\entities\Employee.class]
+2020-04-28 10:50:18 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2020-04-28 10:50:18 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2020-04-28 10:50:18 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2020-04-28 10:50:18 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2020-04-28 10:50:18 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'javaConfig'
+2020-04-28 10:50:18 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'employee'
+2020-04-28 10:50:18 DEBUG PropertySourcesPropertyResolver:115 - Found key 'employeeId' in PropertySource 'class path resource [empdetails]' with value of type String
+2020-04-28 10:50:18 DEBUG PropertySourcesPropertyResolver:115 - Found key 'employeeName' in PropertySource 'class path resource [empdetails]' with value of type String
+2020-04-28 10:50:18 DEBUG PropertySourcesPropertyResolver:115 - Found key 'salary' in PropertySource 'class path resource [empdetails]' with value of type String
+2020-04-28 10:50:18 DEBUG PropertySourcesPropertyResolver:115 - Found key 'businessUnit' in PropertySource 'class path resource [empdetails]' with value of type String
+2020-04-28 10:50:18 DEBUG PropertySourcesPropertyResolver:115 - Found key 'age' in PropertySource 'class path resource [empdetails]' with value of type String
+2020-04-28 10:50:18 DEBUG AnnotationConfigApplicationContext:1002 - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@759ebb3d, started on Tue Apr 28 10:50:17 IST 2020

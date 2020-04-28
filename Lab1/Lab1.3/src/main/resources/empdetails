@@ -1,0 +1,10 @@
+#Root logger option
+employeeId=123456
+employeeName= Harriett
+salary= 40000
+businessUnit= PES-BU
+age= 30
+
+sbuId=11
+sbuName=Product Engineering Services
+sbuHead=Kiran Rao
